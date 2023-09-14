@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Hassan
 
-![Banner Image](https://your-banner-image-link.com)
+![Banner Image](https://drive.google.com/file/d/1rj52Z5ebMUKSnpZGx6FzdLBxxq29M6bD/view?usp=sharing)
 
 ## 🚀 About Me
 
