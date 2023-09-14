@@ -1,6 +1,6 @@
-# 👋 Hello, World! I'm Hassan
+# 👋 Hello, World! I'm Hassan Yousaf
 
-![Banner Image](http://hassanyousaf.com/public/gitBanner.jpeg)
+
 
 ## 🚀 About Me
 
