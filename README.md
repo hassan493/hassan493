@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
 I'm a passionate and versatile software engineer with a focus on **Databases**, **Cyber Security**, **Web Development**, **Cloud Computing**, and **Deployment Architectures**.
-My epxertise is JavaScript , it's tools and frameworks and I love every single bit of it. Currently, I'm diving deep into the MERN stack. I just started learning python and machine learning so I am open to connect and collaborate!
+My epxertise is **JavaScript** , it's tools and frameworks and I love every single bit of it. Currently, I'm diving deep into the MERN stack. I just started learning python and machine learning so I am open to connect and collaborate!
 
 ---
 
