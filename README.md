@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Hassan
 
-![Banner Image](https://drive.google.com/file/d/1rj52Z5ebMUKSnpZGx6FzdLBxxq29M6bD/view?usp=sharing)
+![Banner Image](http://hassanyousaf.com/public/gitBanner.jpeg)
 
 ## 🚀 About Me
 
