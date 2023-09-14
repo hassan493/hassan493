@@ -25,7 +25,7 @@ I'm a passionate and versatile software engineer with a focus on **Databases**, 
 
 ## 💼 Experience
 
-- **Senior Software Engineer at Hyly.ai(https://hyly.ai)**
+- **Senior Software Engineer at [Hyly.ai](https://hyly.ai)**
   - Spearheaded product design and development efforts at Hyly, leveraging the latest AI and machine
     learning technologies to develop cutting-edge ReactJS applications.
   - Improved code quality and implemented best practices across the engineering team, resulting in a 30%
@@ -34,7 +34,7 @@ I'm a passionate and versatile software engineer with a focus on **Databases**, 
     requirements and helping with technical questions, as well as carried out rigorous testing of the application
     to ensure responsiveness and efficiency
 
-- **Senior Software Engineer at Devsinc(https://devsinc.com)**
+- **Senior Software Engineer at [Devsinc](https://devsinc.com)**
   - Developed and maintained over 5 web applications utilizing NodeJS, Django, React, and JavaScript,
     resulting in streamlined processes and improved user experience for clients.
   - Transformed an extensive MERN stack application into a service-oriented architecture, reducing
